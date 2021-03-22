@@ -20,7 +20,7 @@ body {
     margin-left: 50px;
 }
 
-.Images {
+.Margin {
     margin-bottom: 25px;
 }
 
@@ -28,4 +28,22 @@ body {
     margin-top: 50px;
     width: 500px;
     height: 500px;
+}
+
+#favourite_group_bts {
+    height: 100px;
+}
+
+#favourite_group_blackpink {
+    height: 100px;
+    margin-bottom: 300px;
+}
+
+#Jamboard_button {
+    align-self: center;
+}
+
+.info_margin {
+    margin-bottom: 25px;
+    margin-top: 10px;
 }
